@@ -1,0 +1,16 @@
+.Histories-img{
+    height: 4rem;
+    border: 1px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.BffActive{
+    border: 3px solid green;
+    border-radius: 100px;
+}
+
+.BffDisactive{
+    border: red 3px outset;
+    border-radius: 100px;
+}

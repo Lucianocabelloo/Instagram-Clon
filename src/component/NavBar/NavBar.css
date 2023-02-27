@@ -1,0 +1,49 @@
+.Nav{
+    width: 30vh;
+    height: 100vh;
+}
+
+.Nav-Logo h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 36px;
+    font-weight: 200;
+    padding: 0px 1.6rem;
+    
+}
+
+.Nav-Section-ul{
+list-style: none;
+padding: 1rem;
+}
+
+
+.Nav-Section-li a {
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-weight: bold;
+
+}
+
+
+.Nav-Section-li{
+    padding: 0.6rem 0px;
+    
+}
+
+.icon{
+    color: white ;
+    margin: 0px 10px;
+    font-size: 2rem;
+}
+
+.perfil{
+    height: 2rem;
+    border-radius: 100%;
+    color: white ;
+    margin: 0px 10px;
+}

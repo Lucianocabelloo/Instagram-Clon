@@ -1,0 +1,39 @@
+.ProfileCard-Container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;        
+    height: 66px;
+    margin-bottom: 10px;
+
+    
+}
+
+.ProfileCard-Img img{
+    height: 4rem;
+    border-radius: 100%;
+    color: white ;
+    margin: 0px 10px;
+}
+
+.ProfileCard-Info{
+    display: flex;
+    flex-direction: column;
+    margin: 0.8rem;
+}
+
+.ProfileCard-Info p{
+    margin: 0px;
+    padding-top: 5px;
+}
+
+.ProfileCard-Change button{
+    border: none;
+    background-color: transparent;
+    color: rgb(0, 149, 256);
+
+}
+
+.ProfileCard-Change button:hover{
+    color: white;
+}
